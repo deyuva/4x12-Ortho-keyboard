@@ -22,6 +22,8 @@ key considerations:
     
   - If a layout is much more efficient, it's worth the trouble of getting used to.
     for example: numpad VS numbers row.
+
+    
 ![image](https://github.com/user-attachments/assets/1b60a883-dbef-4d0b-b96a-46f98a1ba971)
 
 
