@@ -5,8 +5,7 @@ Layout:
 -------
 
 key considerations:
-  - Modifier keys (space, enter, backspace, ...) should remain at the same locatins across all layers,
-    this feels more natural since those keys are pressed the most, and usually apply to all groups.
+  - Modifier keys (space, enter, backspace, etc...) should remain at the same locations across all layers.
     
   - Some common mapping should remain the same. 
     for example: symbols assoviated with numbers should remain the same,
