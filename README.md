@@ -1,4 +1,4 @@
-4 x 12 Handwired Ortholinear keyboard:
+Handwired 4x12 ortholinear keyboard:
 --------------------------------------
 
 Layout:
