@@ -1,6 +1,20 @@
 Handwired 4x12 ortholinear keyboard:
 --------------------------------------
 
+Use:
+
+  - Open a browser with QMK configurator.
+  - Upload the keymap .json file.
+  - Change the layout if needed.
+  - Compile.
+  - Download the firmware file.
+  - Open the QMK ToolBox (required a download).
+  - Open the firmware file.
+  - Enable the Auto-Flash setting.
+  - Press the keyboard reset botton.
+    
+
+  - 
 Layout:
 -------
 
